@@ -1,8 +1,7 @@
 {
-  "name": "my-react-spa-boilerplate",
+  "name": "creative-3d-lab",
   "version": "1.0.0",
-  "description": "React SPA boilerplate configured using Webpack",
-  "homepage": "http://SebinSong.github.io/my-react-spa-boilerplate",
+  "description": "three.js animation collection of mine",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve --env mode=development --open",
