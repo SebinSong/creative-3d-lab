@@ -4,6 +4,13 @@
   font-weight: 400;
 }
 
+@font-face {
+  src: url(../assets/fonts/monoton_400_normal.woff2) format('woff2');
+  font-family: 'monoton';
+  font-weight: 400;
+}
+
 :root {
   font-family: "urbanist";
+  font-size: 10px;
 }
